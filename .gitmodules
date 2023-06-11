@@ -1,3 +1,6 @@
 [submodule "platforms/Linux/tinydtls"]
 	path = examples/shared/tinydtls
 	url = https://github.com/eclipse/tinydtls.git
+[submodule "examples/shared/WiringPi"]
+	path = examples/shared/WiringPi
+	url = https://github.com/WiringPi/WiringPi
